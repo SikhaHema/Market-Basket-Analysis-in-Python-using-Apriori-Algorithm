@@ -1,0 +1,2 @@
+# Market-Basket-Analysis-in-Python-using-Apriori-Algorithm
+**Description:** Market Basket Analysis is a technique used to discover associations and relationships between items that are frequently purchased together. It is commonly applied in retail and e-commerce businesses to gain insights into customer purchasing behavior and optimize various aspects of the business, such as product placement, cross-selling, and targeted marketing strategies.
